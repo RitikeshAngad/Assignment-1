@@ -1,0 +1,79 @@
+Q 1------Manual Testing:-
+
+1. Time consuming and tedious: Since test cases are executed by human resources so it is very slow and tedious. 
+2. Huge investment in human resources: As test cases need to be executed manually so more testers are required in manual testing. 	
+3. Less reliable: Manual testing is less reliable as tests may not be performed with precision each time because of human errors. 	
+4. Non-programmable: No programming can be done to write sophisticated tests which fetch hidden information. 	
+
+
+---------Automation Testing:-
+
+1. Fast Automation runs test cases significantly faster than human resources.
+2. Less investment in human resources:Test cases are executed by using automation tool so less tester are required in automation testing.
+3. More reliable: Automation tests perform precisely same operation each time they are run.
+4. Programmable: Testers can program sophisticated tests to bring out hidden information.
+
+
+Q 2------2. What is Automation?
+
+Automation is a program to writing the set of instruction for a software to perform any task.
+
+
+Q 3---------. Why to Automate a Project?
+  
+  Test case to be automate using to increase the automation in project.
+
+Q 4------. What are the advantages of Automation?
+
+  Its provide a better efficency in automate testing.
+  Its Gives a benifit to regression testing.
+
+Q 5 ------Name few test Automation Tools
+  Selinium.
+  Mercury tools.
+  IBM.
+  Borland.
+
+ Q 6------What are the benefits of Automation?
+       Regression Testing.
+       Auto Optimize. 
+
+Q 7------What is the need of Automation?
+    Its Provide the better framework to Automation testing
+    Improve Efficency acroos the different platform.
+
+
+Q 8-------. What is Framework?
+     Framework is a platform to set the tools provide by which we will test the test environment,
+
+
+Q 9. --------What are the types of frameworks?
+
+    Data Driven Automation Framework
+    keyword driven Framework
+    Modular/POM
+    Hybrid Framework
+
+Q 10-------. What is Keyword driven and Code Driven automation testing?
+
+   Keyword Driven Automation testing is a Keyword-driven testing is a type of functional automation testing framework which is also known as table-driven testing
+
+
+   Code Driven automation testing is also known as test driven development's first step is to add a test, which is enough for code to fail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
